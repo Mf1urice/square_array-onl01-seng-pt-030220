@@ -5,7 +5,7 @@ end
 numbers = [1,2,3]
 def square_array(numbers)
 # => [1,4,9])
- 
+numbers.
 new_numbers = [9,10,16,25]
  
 square_array(new_numbers)
