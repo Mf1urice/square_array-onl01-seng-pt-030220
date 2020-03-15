@@ -8,8 +8,9 @@ def square_array(numbers)
 new_numbers = []
 numbers.each do |numbers|
   puts numbers*numbers
-  new_numbers
+  new_numbers << numbers*numbers
 end
+new_numbers
 end
 #new_numbers = [9,10,16,25]
  
