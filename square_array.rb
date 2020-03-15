@@ -5,6 +5,7 @@
 numbers = [1,2,3]
 def square_array(numbers)
 # => [1,4,9])
+new_numbers = []
 numbers.each do |numbers|
   puts numbers*numbers
 end
